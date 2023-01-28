@@ -8,6 +8,6 @@
 # 1d) done
 # 1e) done
 # 1f) ---
-# 1g)
+# 1g) done
 # 1h) ---
-# 1i) asked for access
+# 1i) asked for access - we can say we were not granted access ;)
