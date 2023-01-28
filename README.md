@@ -4,7 +4,7 @@
 
 # 1a) done
 # 1b) done
-# 1c) done
+# 1c) done - should we include a variable for meat-eater
 # 1d) done
 # 1e) done
 # 1f) ---
