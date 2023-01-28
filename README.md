@@ -5,8 +5,8 @@
 1a) done
 1b) done
 1c) done
-1d)
-1e)
+1d) done
+1e) done
 1f) ---
 1g)
 1h) ---
