@@ -4,9 +4,9 @@
 
 # 1a) done
 # 1b) done
-# 1c) done - should we include a variable for meat-eater
+# 1c) done - should we include a variable for meat-eater?
 # 1d) done
-# 1e) done
+# 1e) done - is it correct that bmi has no effect?
 # 1f) ---
 # 1g) done
 # 1h) ---
